@@ -55,12 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetPrasanna&layout=compact&theme=radical)  
-
----
 
 ⭐️ From [Abhijeet Prasanna Tiwari](https://github.com/AbhijeetPrasanna)  
 
